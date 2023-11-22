@@ -23,6 +23,11 @@ const questions = [
       "Please provide a URL where a user can access your deployed application.",
   },
   {
+    type: "input",
+    name: "installation",
+    message: "What are the steps did you take to install your project? Please provide a description,",
+  }
+  {
     type: "checkbox",
     name: "license",
     message: "Please select a license applicable to this project.",
