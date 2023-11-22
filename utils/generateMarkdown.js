@@ -5,6 +5,16 @@ function renderLicenseBadge(license) {
   }
   return "";
 }
+switch (license) {
+  case "MIT License":
+    return "[![License: MIT] (https://img.sheilds.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/MIT)";
+}
+
+function renderLicenseLink(license) {
+  if (!licsense) {
+    return "";
+  }
+}
 
 //Creating a function to generate markdown for README
 function generateMarkdown(data) {
