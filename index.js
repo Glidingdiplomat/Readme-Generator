@@ -76,6 +76,11 @@ const questions = [
     name: "Operating system",
     message: "How many operating system is used in the world.",
   },
+  {
+    type: "input",
+    name: "Opinion",
+    message: "Do you think ReadMe Generators make it helpful to users",
+  },
 ];
 
 // Writing README.md File
