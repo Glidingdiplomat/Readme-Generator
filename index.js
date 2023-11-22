@@ -71,6 +71,11 @@ const questions = [
     name: "test",
     message: "Provide walkthrough of required tests if applicable.",
   },
+  {
+    type: "input",
+    name: "Operating system",
+    message: "How many operating system is used in the world.",
+  },
 ];
 
 // Writing README.md File
