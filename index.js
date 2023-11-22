@@ -25,8 +25,9 @@ const questions = [
   {
     type: "input",
     name: "installation",
-    message: "What are the steps did you take to install your project? Please provide a description,",
-  }
+    message:
+      "What are the steps did you take to install your project? Please provide a description,",
+  },
   {
     type: "checkbox",
     name: "license",
