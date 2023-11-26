@@ -11,3 +11,6 @@ As a student looking for a way to make read me easier to generate and follow.
 https://readme-gen.vercel.app/app - to use as a guide/ reference
 https://www.npmjs.com/package/readme-md-generator
 https://stackoverflow.com/questions/72925603/nodemon-error-while-running-a-readme-generator - reading this page if any case any errors i come across and how questions formed
+
+# link at bottom
+https://github.com/Glidingdiplomat/Readme-Generator.git
