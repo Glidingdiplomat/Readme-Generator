@@ -5,3 +5,9 @@ This is to help with how to make a read me generator
 # Sreenshots below are show the code and questions to generate.
 ![Screenshot 2023-11-25 at 8 23 31 PM](https://github.com/Glidingdiplomat/Readme-Generator/assets/134241357/727db7d3-5bff-418e-ac9b-c78c62a565a3)
 ![Screenshot 2023-11-25 at 8 23 35 PM](https://github.com/Glidingdiplomat/Readme-Generator/assets/134241357/97170f52-c4a5-4a3f-8c56-8d2d3c64c3ab)
+# User Story
+As a student looking for a way to make read me easier to generate and follow.
+# Resources 
+https://readme-gen.vercel.app/app - to use as a guide/ reference
+https://www.npmjs.com/package/readme-md-generator
+https://stackoverflow.com/questions/72925603/nodemon-error-while-running-a-readme-generator - reading this page if any case any errors i come across and how questions formed
